@@ -15,7 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently pursuing my B-Tech 2nd year as a computer science student.<br>I'm looking to collaborate on open source projects like Gsoc, My GDGC club's<br>projects. <br>I'm looking for help that can guide my work with the references and make it scalable.<br>I'm curretly exploring the Backend(like all those trendy NodeJS, Middlewares,Express,REST API, MongoDB)<br> to optian the complete STACK application.<br>Ask we about the project's workflow, tech pack and some of interview q&n's<br>The FUN fact about me is- I was transfored FIVE different schools over my whole 10 years of schooling!!! <br>BTW I'm a Star KID....<br><br>
+<h1 align="center">💫 About Me</h1>
+
+<p align="center">
+  🎓 B-Tech CSE | 2nd Year &nbsp;•&nbsp; 🌍 Open Source Enthusiast &nbsp;•&nbsp; ⭐ Star Kid
+</p>
+
+<br>
+
+<p>
+  👨‍💻 I'm currently pursuing my <strong>B-Tech 2nd year in Computer Science</strong>, passionate about building real-world scalable applications. <br><br>
+
+  🤝 I'm looking to <strong>collaborate on Open Source projects</strong> like <strong>GSoC</strong> and my <strong>GDGC Club's</strong> projects — always open to guidance, references, and best practices that make code production-ready. <br><br>
+
+  🔧 Currently deep-diving into <strong>Backend Development</strong> — exploring the trendy world of <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;⚡ Node.js &nbsp;|&nbsp; Express.js &nbsp;|&nbsp; REST APIs &nbsp;|&nbsp; Middlewares &nbsp;|&nbsp; MongoDB <br>
+  ...to build my complete <strong>Full Stack (MERN)</strong> skillset! <br><br>
+
+  💬 Ask me about <strong>project workflows</strong>, <strong>tech stack choices</strong>, and <strong>interview Q&A's</strong> — always happy to discuss! <br><br>
+
+  🏫 <strong>Fun Fact:</strong> I transferred across <strong>FIVE different schools</strong> over my entire 10 years of schooling — making me one of the most adaptable, quick-learning humans you'll ever meet 😄 <br><br>
+
+  ⭐ Oh and BTW — I'm a <strong>Star Kid</strong> 😎✨
+</p>
 
 
 ## 🌐 Socials:
