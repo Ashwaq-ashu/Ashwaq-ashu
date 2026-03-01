@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<h1 align="center">💫 About Me</h1>
+
 
 <p align="center">
   🎓 B-Tech CSE | 2nd Year &nbsp;•&nbsp; 🌍 Open Source Enthusiast &nbsp;•&nbsp; ⭐ Star Kid
